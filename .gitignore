@@ -1,0 +1,9 @@
+**/*.o
+**/*.a
+**/*.out
+testmain.c
+my_nm
+my_objdump
+.vscode
+actual
+my
